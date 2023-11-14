@@ -8,7 +8,7 @@ global:
     installPlanApproval: Automatic
 
 main:
-  clusterGroupName: hub
+  clusterGroupName: pf-az1-hub
 
   multiSourceConfig:
     enabled: true
